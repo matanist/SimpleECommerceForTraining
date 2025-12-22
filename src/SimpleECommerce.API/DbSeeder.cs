@@ -90,7 +90,7 @@ public static class DbSeeder
                 Price = 79.99m,
                 StockQuantity = 100,
                 CategoryId = electronics!.Id,
-                ImageUrl = "https://via.placeholder.com/300x300?text=Headphones"
+                ImageUrl = "https://picsum.photos/seed/headphones/300/300"
             },
             new()
             {
@@ -99,7 +99,7 @@ public static class DbSeeder
                 Price = 699.99m,
                 StockQuantity = 50,
                 CategoryId = electronics.Id,
-                ImageUrl = "https://via.placeholder.com/300x300?text=Smartphone"
+                ImageUrl = "https://picsum.photos/seed/smartphone/300/300"
             },
             new()
             {
@@ -108,7 +108,7 @@ public static class DbSeeder
                 Price = 1199.99m,
                 StockQuantity = 30,
                 CategoryId = electronics.Id,
-                ImageUrl = "https://via.placeholder.com/300x300?text=Laptop"
+                ImageUrl = "https://picsum.photos/seed/laptop/300/300"
             },
             new()
             {
@@ -117,7 +117,7 @@ public static class DbSeeder
                 Price = 29.99m,
                 StockQuantity = 200,
                 CategoryId = electronics.Id,
-                ImageUrl = "https://via.placeholder.com/300x300?text=Mouse"
+                ImageUrl = "https://picsum.photos/seed/mouse/300/300"
             },
 
             // Clothing
@@ -128,7 +128,7 @@ public static class DbSeeder
                 Price = 19.99m,
                 StockQuantity = 150,
                 CategoryId = clothing!.Id,
-                ImageUrl = "https://via.placeholder.com/300x300?text=T-Shirt"
+                ImageUrl = "https://picsum.photos/seed/tshirt/300/300"
             },
             new()
             {
@@ -137,7 +137,7 @@ public static class DbSeeder
                 Price = 49.99m,
                 StockQuantity = 80,
                 CategoryId = clothing.Id,
-                ImageUrl = "https://via.placeholder.com/300x300?text=Jeans"
+                ImageUrl = "https://picsum.photos/seed/jeans/300/300"
             },
             new()
             {
@@ -146,7 +146,7 @@ public static class DbSeeder
                 Price = 129.99m,
                 StockQuantity = 40,
                 CategoryId = clothing.Id,
-                ImageUrl = "https://via.placeholder.com/300x300?text=Jacket"
+                ImageUrl = "https://picsum.photos/seed/jacket/300/300"
             },
 
             // Books
@@ -157,7 +157,7 @@ public static class DbSeeder
                 Price = 39.99m,
                 StockQuantity = 60,
                 CategoryId = books!.Id,
-                ImageUrl = "https://via.placeholder.com/300x300?text=Clean+Code"
+                ImageUrl = "https://picsum.photos/seed/cleancode/300/300"
             },
             new()
             {
@@ -166,7 +166,7 @@ public static class DbSeeder
                 Price = 54.99m,
                 StockQuantity = 45,
                 CategoryId = books.Id,
-                ImageUrl = "https://via.placeholder.com/300x300?text=Design+Patterns"
+                ImageUrl = "https://picsum.photos/seed/patterns/300/300"
             },
             new()
             {
@@ -175,7 +175,7 @@ public static class DbSeeder
                 Price = 44.99m,
                 StockQuantity = 55,
                 CategoryId = books.Id,
-                ImageUrl = "https://via.placeholder.com/300x300?text=Pragmatic+Programmer"
+                ImageUrl = "https://picsum.photos/seed/pragmatic/300/300"
             },
 
             // Home & Garden
@@ -186,7 +186,7 @@ public static class DbSeeder
                 Price = 34.99m,
                 StockQuantity = 70,
                 CategoryId = homeGarden!.Id,
-                ImageUrl = "https://via.placeholder.com/300x300?text=Plant+Pots"
+                ImageUrl = "https://picsum.photos/seed/plantpot/300/300"
             },
             new()
             {
@@ -195,7 +195,7 @@ public static class DbSeeder
                 Price = 39.99m,
                 StockQuantity = 85,
                 CategoryId = homeGarden.Id,
-                ImageUrl = "https://via.placeholder.com/300x300?text=Desk+Lamp"
+                ImageUrl = "https://picsum.photos/seed/desklamp/300/300"
             },
 
             // Sports & Outdoors
@@ -206,7 +206,7 @@ public static class DbSeeder
                 Price = 24.99m,
                 StockQuantity = 120,
                 CategoryId = sports!.Id,
-                ImageUrl = "https://via.placeholder.com/300x300?text=Yoga+Mat"
+                ImageUrl = "https://picsum.photos/seed/yogamat/300/300"
             },
             new()
             {
@@ -215,7 +215,7 @@ public static class DbSeeder
                 Price = 89.99m,
                 StockQuantity = 65,
                 CategoryId = sports.Id,
-                ImageUrl = "https://via.placeholder.com/300x300?text=Running+Shoes"
+                ImageUrl = "https://picsum.photos/seed/shoes/300/300"
             },
             new()
             {
@@ -224,7 +224,7 @@ public static class DbSeeder
                 Price = 19.99m,
                 StockQuantity = 180,
                 CategoryId = sports.Id,
-                ImageUrl = "https://via.placeholder.com/300x300?text=Water+Bottle"
+                ImageUrl = "https://picsum.photos/seed/bottle/300/300"
             }
         };
 
