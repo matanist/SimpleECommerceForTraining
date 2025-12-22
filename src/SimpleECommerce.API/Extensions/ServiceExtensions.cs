@@ -80,8 +80,8 @@ public static class ServiceExtensions
                 Description = "A simple e-commerce REST API for educational purposes. This API provides endpoints for managing products, categories, orders, and user authentication.",
                 Contact = new OpenApiContact
                 {
-                    Name = "SimpleECommerce Team",
-                    Email = "support@simpleecommerce.com"
+                    Name = "Fatih BAYTAR",
+                    Email = "https://github.com/matanist/SimpleECommerceForTraining"
                 },
                 License = new OpenApiLicense
                 {
