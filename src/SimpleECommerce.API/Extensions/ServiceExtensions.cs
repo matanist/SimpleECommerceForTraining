@@ -81,7 +81,7 @@ public static class ServiceExtensions
                 Contact = new OpenApiContact
                 {
                     Name = "Fatih BAYTAR",
-                    Email = "https://github.com/matanist/SimpleECommerceForTraining"
+                    Url = new Uri("https://github.com/matanist/SimpleECommerceForTraining")
                 },
                 License = new OpenApiLicense
                 {
