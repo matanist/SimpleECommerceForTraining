@@ -1,6 +1,9 @@
 services:
   api:
-    image: ghcr.io/matanist/simpleecommerce-api:latest
+    build:
+      context: .
+      dockerfile: src/SimpleECommerce.API/Dockerfile
+    image: simpleecommerce-api:local
     container_name: simpleecommerce-api
     ports:
       - "5000:8080"
